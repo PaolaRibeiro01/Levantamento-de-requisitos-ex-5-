@@ -1,4 +1,8 @@
 # Levantamento-de-requisitos-ex-5-
+# Aluna: Paola Beatriz Gonçalves Ribeiro
+# RA: 2039403
+# Curso: 1° C, ADS
+# Unimar (Universidade de Marilia)
 # Primeiro cenário: Sistema de Gestão de Estoque para uma Loja de Eletrônicos
 
 **Descrição do Escopo:**
