@@ -50,7 +50,22 @@ Isso serviu como inspiração para compreender o que funciona bem e o que poderi
 
 **Requisitos Funcionais:**
 
+
 **Requisitos NÃO Funcionais:**
+
+**Desempenho:** O sistema deve ser rápido e processar as informações em poucos segundos, para não deixar os usuários esperando muito.
+
+**Escalabilidade:** O sistema deve ser capaz de funcionar bem mesmo quando mais pessoas começam a usá-lo ao mesmo tempo.
+
+**Usabilidade:** O sistema deve ser fácil de usar, com menus e botões claros para que todos consigam utilizá-lo sem dificuldades.
+
+**Compatibilidade:** O sistema deve funcionar em diferentes computadores, celulares e navegadores de internet, para que qualquer um possa acessá-lo.
+
+**Manutenibilidade:** O sistema deve ser fácil de atualizar e consertar, caso algum problema apareça, sem atrapalhar o uso.
+
+**Disponibilidade:** O sistema deve estar disponível para uso na maior parte do tempo, sem muitos períodos de “fora do ar”.
+
+
 
 # Segundo cenário: Aplicativo de Saúde e Bem-Estar
 
@@ -105,8 +120,20 @@ acompanhando o progresso das metas ou recebendo dicas com base nos dados inserid
 **Requisitos Funcionais:**
 
 
-
 **Requisitos NÃO Funcionais:**
+
+**Segurança:** O sistema deve proteger os dados dos usuários para que ninguém não autorizado consiga acessá-los.
+
+**Usabilidade:** O sistema deve ser fácil de usar, com menus e botões claros para que todos consigam utilizá-lo sem dificuldades.
+
+**Compatibilidade:** O sistema deve funcionar em diferentes computadores, celulares e navegadores de internet, para que qualquer um possa acessá-lo.
+
+**Manutenibilidade:** O sistema deve ser fácil de atualizar e consertar, caso algum problema apareça, sem atrapalhar o uso.
+
+**Disponibilidade:** O sistema deve estar disponível para uso na maior parte do tempo, sem muitos períodos de “fora do ar”.
+
+**Backup e Recuperação:** O sistema deve ter cópias de segurança dos dados, para que nada seja perdido se ocorrer algum problema.
+
 
 
 
