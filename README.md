@@ -72,5 +72,22 @@ saúde e bem-estar.
 
 # Técnicas Usadas:
 
+Entrevistas
+
+Foram realizadas entrevistas com o público e encontraram diferentes situações, pessoas com diferentes objetivos: emagrecer, melhorar a alimentação, praticar mais exercícios, controlar a pressão, entre outros. Com base nessas informações conseguiram entender as dificuldade dessas pessoas  e o tipo de apoio que esperam de um aplicativo desse tipo.
+
+Brainstorming
+
+Fizemos uma rodada de ideias para pensar nas funcionalidades mais úteis e atrativas. Surgiram sugestões como metas personalizadas, notificações motivacionais, dicas de alimentação saudável e até integração com relógios inteligentes para registrar automaticamente atividades físicas.
+
+Estudo
+
+A equipe buscou por aplicativos já conhecidos no mercado, para entender quais funções são mais valorizadas pelos usuários. Observaram também o design e a forma como os dados são apresentados, o que ira ajudar a pensar em uma interface mais amigável.
+
+Teste
+
+A partir de tudo que levantaram, criaram cenários reais de uso do app: por exemplo, uma pessoa registrando o que comeu no dia, acompanhando o progresso das metas ou recebendo dicas com base nos dados inseridos. Esses casos ajudaram a transformar as ideias em funcionalidades concretas.
+
+
 
 
