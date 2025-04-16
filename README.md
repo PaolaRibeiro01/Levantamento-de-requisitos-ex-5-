@@ -12,20 +12,20 @@ controlar o inventário de produtos em suas lojas físicas e online.
 
 **Necessidades do Software:**
 
-• Registro de Produtos: O sistema deve permitir o registro de novos produtos,
+• **Registro de Produtos:** O sistema deve permitir o registro de novos produtos,
 incluindo informações como nome, descrição, preço e quantidade em
 estoque.
 
-• Monitoramento de Estoque: O sistema deve monitorar os níveis de estoque
+• **Monitoramento de Estoque:** O sistema deve monitorar os níveis de estoque
 de cada produto e emitir alertas quando os estoques estiverem baixos.
 
-• Vendas e Pedidos: O sistema deve registrar vendas e pedidos de produtos,
+• **Vendas e Pedidos:** O sistema deve registrar vendas e pedidos de produtos,
 atualizando automaticamente os níveis de estoque.
 
-• Gestão de Fornecedores: O sistema deve manter registros de fornecedores
+• **Gestão de Fornecedores:** O sistema deve manter registros de fornecedores
 de produtos, incluindo informações de contato e histórico de pedidos.
 
-• Relatórios de Desempenho: O sistema deve gerar relatórios sobre o
+• **Relatórios de Desempenho:** O sistema deve gerar relatórios sobre o
 desempenho de vendas e o movimento de estoque para ajudar na tomada
 de decisões
 
@@ -76,20 +76,20 @@ usuários a acompanharem sua atividade física, dieta e bem-estar geral.
 
 **Necessidades do Software:**
 
-• Registro de Atividades: O aplicativo deve permitir que os usuários registrem
+• **Registro de Atividades:** O aplicativo deve permitir que os usuários registrem
 atividades físicas, como corrida, caminhada, ciclismo, etc.
 
-• Acompanhamento de Dieta: Os usuários devem poder registrar sua
+• **Acompanhamento de Dieta:** Os usuários devem poder registrar sua
 ingestão diária de alimentos e monitorar a qualidade de sua dieta.
 
-• Monitoramento de Saúde: O aplicativo deve permitir que os usuários
+• **Monitoramento de Saúde:** O aplicativo deve permitir que os usuários
 registrem dados de saúde, como pressão arterial, níveis de glicose e peso
 corporal.
 
-• Definição de Metas: Os usuários devem poder definir metas pessoais para
+• **Definição de Metas:** Os usuários devem poder definir metas pessoais para
 atividade física, dieta e outros aspectos de saúde e bem-estar.
 
-• Feedback Personalizado: O aplicativo deve fornecer feedback
+• **Feedback Personalizado:** O aplicativo deve fornecer feedback
 personalizado e dicas para ajudar os usuários a alcançarem suas metas de
 saúde e bem-estar.
 
