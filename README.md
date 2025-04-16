@@ -24,3 +24,19 @@ de produtos, incluindo informações de contato e histórico de pedidos.
 • Relatórios de Desempenho: O sistema deve gerar relatórios sobre o
 desempenho de vendas e o movimento de estoque para ajudar na tomada
 de decisões
+
+Técnicas Usadas:
+
+Entrevistas
+
+Realizaram entrevistas com o gerente da loja e com funcionários do setor de vendas e do estoque. A partir dessas entrevistas simuladas, conseguiram levantar pontos importantes, como a necessidade de alertas quando o estoque estiver baixo, a importância de registrar fornecedores e o desejo por relatórios que ajudem a tomar decisões mais estratégicas.
+
+Brainstorming
+
+Reuniram o grupo e fizeram uma sessão de troca de ideias para pensar em tudo o que um bom sistema de estoque deveria ter. Essa técnica ajudou a ir além do básico e pensar em funcionalidades como o histórico de pedidos com fornecedores e a integração com vendas online.
+
+
+Estudo
+
+pesquisaram como outras lojas organizam seus estoques, analisando sistemas já utilizados no mercado. Isso serviu como inspiração para compreender o que funciona bem e o que poderia ser melhorado, adaptando para a realidade da loja em questão.
+
