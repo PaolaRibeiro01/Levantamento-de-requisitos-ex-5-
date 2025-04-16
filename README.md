@@ -41,12 +41,16 @@ Essa técnica ajudou a ir além do básico e pensar em funcionalidades como o hi
 
 **Estudo**
 
-pesquisaram como outras lojas organizam seus estoques, analisando sistemas já utilizados no mercado.
+Pesquisaram como outras lojas organizam seus estoques, analisando sistemas já utilizados no mercado.
 Isso serviu como inspiração para compreender o que funciona bem e o que poderia ser melhorado, adaptando para a realidade da loja em questão.
+
+**Requisitos Funcionais:**
+
+**Requisitos NÃO Funcionais:**
 
 # Segundo cenário: Aplicativo de Saúde e Bem-Estar
 
-**Descrição do Escopo**
+**Descrição do Escopo:**
 
 Vocês estão desenvolvendo um aplicativo de saúde e bem-estar para ajudar os
 usuários a acompanharem sua atividade física, dieta e bem-estar geral. 
@@ -72,21 +76,33 @@ saúde e bem-estar.
 
 # Técnicas Usadas:
 
-Entrevistas
+**Entrevistas**
 
-Foram realizadas entrevistas com o público e encontraram diferentes situações, pessoas com diferentes objetivos: emagrecer, melhorar a alimentação, praticar mais exercícios, controlar a pressão, entre outros. Com base nessas informações conseguiram entender as dificuldade dessas pessoas  e o tipo de apoio que esperam de um aplicativo desse tipo.
+Foram realizadas entrevistas com o público e encontraram diferentes situações, pessoas com diferentes objetivos: 
+emagrecer, melhorar a alimentação, praticar mais exercícios, controlar a pressão, entre outros. 
+Com base nessas informações conseguiram entender as dificuldade dessas pessoas  e o tipo de apoio que esperam de um aplicativo desse tipo.
 
-Brainstorming
+**Brainstorming**
 
-Fizemos uma rodada de ideias para pensar nas funcionalidades mais úteis e atrativas. Surgiram sugestões como metas personalizadas, notificações motivacionais, dicas de alimentação saudável e até integração com relógios inteligentes para registrar automaticamente atividades físicas.
+Fizeram uma rodada de ideias para pensar nas funcionalidades mais úteis e atrativas.
+Surgiram sugestões como metas personalizadas, notificações motivacionais, dicas de alimentação saudável
+e até integração com relógios inteligentes para registrar automaticamente atividades físicas.
 
-Estudo
+**Estudo**
 
-A equipe buscou por aplicativos já conhecidos no mercado, para entender quais funções são mais valorizadas pelos usuários. Observaram também o design e a forma como os dados são apresentados, o que ira ajudar a pensar em uma interface mais amigável.
+A equipe buscou por aplicativos já conhecidos no mercado, para entender quais funções são mais valorizadas pelos usuários.
+Observaram também o design e a forma como os dados são apresentados, o que ira ajudar a pensar em uma interface mais amigável.
 
-Teste
+**Teste**
 
-A partir de tudo que levantaram, criaram cenários reais de uso do app: por exemplo, uma pessoa registrando o que comeu no dia, acompanhando o progresso das metas ou recebendo dicas com base nos dados inseridos. Esses casos ajudaram a transformar as ideias em funcionalidades concretas.
+A partir de tudo que levantaram, criaram cenários reais de uso do app: por exemplo, uma pessoa registrando o que comeu no dia, 
+acompanhando o progresso das metas ou recebendo dicas com base nos dados inseridos. Esses casos ajudaram a transformar as ideias em funcionalidades concretas.
+
+**Requisitos Funcionais:**
+
+
+
+**Requisitos NÃO Funcionais:**
 
 
 
