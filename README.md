@@ -50,6 +50,32 @@ Isso serviu como inspiração para compreender o que funciona bem e o que poderi
 
 **Requisitos Funcionais:**
 
+1.	Registro de Produtos: O sistema deve permitir que os usuários registrem novos produtos, incluindo informações como nome, descrição, preço e quantidade em estoque.
+
+
+2.	Monitoramento de Estoque: O sistema deve monitorar os níveis de estoque de cada produto e emitir alertas quando os estoques estiverem baixos.
+
+
+3.	Registro de Vendas: O sistema deve registrar vendas realizadas, atualizando automaticamente os níveis de estoque de produtos vendidos.
+
+
+4.	Gestão de Pedidos: O sistema deve permitir o registro e acompanhamento dos pedidos realizados pelos clientes.
+
+
+5.	Cadastro de Fornecedores: O sistema deve permitir o cadastro de fornecedores com informações de contato, histórico de pedidos e dados relacionados.
+
+
+6.	Emissão de Relatórios de Desempenho: O sistema deve gerar relatórios detalhados sobre o desempenho de vendas e o movimento de estoque.
+
+
+7.	Controle de Preço e Promoções: O sistema deve permitir a atualização dos preços dos produtos e a criação de promoções, com o ajuste automático no estoque.
+
+
+8.	Alertas de Reabastecimento: O sistema deve emitir alertas para a equipe de estoque quando os níveis de produtos estiverem baixos, sugerindo o reabastecimento.
+
+
+9.	Histórico de Transações: O sistema deve manter um histórico completo de todas as transações realizadas, incluindo vendas, compras e transferências de estoque.
+
 
 **Requisitos NÃO Funcionais:**
 
@@ -118,6 +144,33 @@ A partir de tudo que levantaram, criaram cenários reais de uso do app: por exem
 acompanhando o progresso das metas ou recebendo dicas com base nos dados inseridos. Esses casos ajudaram a transformar as ideias em funcionalidades concretas.
 
 **Requisitos Funcionais:**
+
+1.	Registro de Atividades Físicas: O aplicativo deve permitir que os usuários registrem suas atividades físicas, como corrida, caminhada, ciclismo, etc.
+
+
+2.	Acompanhamento de Dieta: O aplicativo deve permitir que os usuários registrem a ingestão diária de alimentos e monitorem a qualidade da sua dieta.
+
+
+3.	Monitoramento de Dados de Saúde: O aplicativo deve permitir que os usuários registrem e acompanhem dados de saúde, como pressão arterial, níveis de glicose e peso corporal.
+
+
+4.	Definição de Metas de Saúde: O aplicativo deve permitir que os usuários definam metas pessoais para atividades físicas, dieta e outros aspectos de saúde.
+
+
+5.	Feedback Personalizado: O aplicativo deve fornecer feedback personalizado com base nas atividades e dados de saúde registrados, ajudando os usuários a atingirem suas metas.
+
+
+6.	Notificações Motivacionais: O aplicativo deve enviar notificações motivacionais para incentivar os usuários a manterem suas atividades e hábitos saudáveis.
+
+
+7.	Integração com Dispositivos de Monitoramento: O aplicativo deve permitir integração com dispositivos como relógios inteligentes e monitores de atividade física para registrar automaticamente dados.
+
+
+8.	Relatórios de Progresso: O aplicativo deve gerar relatórios periódicos sobre o progresso dos usuários em relação às suas metas de saúde e bem-estar.
+
+
+9.	Compartilhamento de Resultados: O aplicativo deve permitir que os usuários compartilhem seus resultados de atividades físicas, dietas e metas atingidas em redes sociais ou com outros usuários.
+
 
 
 **Requisitos NÃO Funcionais:**
